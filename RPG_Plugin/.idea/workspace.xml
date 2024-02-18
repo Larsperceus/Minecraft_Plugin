@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8fe72d2-7da4-40c6-8f9d-c8fe8b4ece0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lars/rpg_plugin/AbilityListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lars/rpg_plugin/ClassCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lars/rpg_plugin/ClassListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lars/rpg_plugin/PlayerClassManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lars/rpg_plugin/SkillUpgradeListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lars/rpg_plugin/SkillsCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lars/rpg_plugin/AbilityListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lars/rpg_plugin/AbilityListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lars/rpg_plugin/RPGPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lars/rpg_plugin/RPGPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lars/rpg_plugin/SkillUpgradeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lars/rpg_plugin/SkillUpgradeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Maven.RPG_Plugin [install].executor": "Run",
     "Maven.RPG_Plugin [test].executor": "Run",
+    "Maven.RPG_Plugin [validate].executor": "Run",
     "Maven.RPG_Plugin [verify].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",

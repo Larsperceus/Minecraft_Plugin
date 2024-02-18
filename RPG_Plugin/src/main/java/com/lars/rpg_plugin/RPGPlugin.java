@@ -14,7 +14,9 @@ public class RPGPlugin extends JavaPlugin {
         Objects.requireNonNull(getCommand("menu")).setExecutor(new ClassCommand());
         Objects.requireNonNull(getCommand("skills")).setExecutor(new SkillsCommand(playerClassManager));
 
+
         getServer().getPluginManager().registerEvents(new ClassListener(playerClassManager), this);
+        getServer().getPluginManager().registerEvents(new SkillUpgradeListener(this, playerClassManager), this);
         new AbilityListener(this, playerClassManager);
     }
 
