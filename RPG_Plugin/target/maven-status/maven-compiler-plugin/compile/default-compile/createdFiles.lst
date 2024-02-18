@@ -1,0 +1,7 @@
+com\lars\rpg_plugin\SkillsCommand.class
+com\lars\rpg_plugin\SkillUpgradeListener.class
+com\lars\rpg_plugin\ClassCommand.class
+com\lars\rpg_plugin\RPGPlugin.class
+com\lars\rpg_plugin\AbilityListener.class
+com\lars\rpg_plugin\ClassListener.class
+com\lars\rpg_plugin\PlayerClassManager.class
